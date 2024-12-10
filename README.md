@@ -22,4 +22,6 @@ The projects in this repository showcase:
 - **Interactivity**: Engaging features that allow users to explore data dynamically.
 
 ### **Sneak Peek**
+Depicted below is the Customer Details page of my Adventure Works report.
 
+![Adventure Works Customer Report](https://github.com/Garlid/PowerBI-Portfolio/blob/main/Adventure_Works_Customer_Report.png)
