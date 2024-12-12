@@ -80,13 +80,6 @@ So what this dax did in our project was to first loop through each row of the Sa
 5. use layout to focus attention
 6. tell a clear story
 - so for the project in this repo there are a few different pages that are currated for different audiences (execs, managers, and analysts)
-Below are the pages from the report i built in this course. The exective summary, product details page, map and geospatial view, and customer details. 
+Below are the pages from the report i built in this course. The exective summary, product details page, map and geospatial view, and customer details is pictured in the pdf below.
 
-####Executive Summary
-
-####Product Details
-
-####Geospatial View
-
-####Customer Details
-
+https://github.com/Garlid/PowerBI-Portfolio/blob/main/Adventure%20Works%20Project/Adventure_Works_Report_Final.pdf
