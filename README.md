@@ -48,5 +48,5 @@ The projects in this repository showcase:
 
 Depicted below is the Customer Details page of my Adventure Works report.
 
-![Adventure Works Customer Report](https://github.com/Garlid/PowerBI-Portfolio/blob/main/Adventure_Works_Customer_Report.png)
+![Adventure Works Customer Report](Adventure_Works_Customer_Report.png)
  
