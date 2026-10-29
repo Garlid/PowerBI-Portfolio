@@ -1,3 +1,11 @@
+<a href="https://garlid.github.io/Data-Projects-Portfolio/projects/adventure-works.html"><img src="Images/Executive_Summary_Page.png" alt="Adventure Works executive dashboard: $24.9M revenue, $10.5M profit, 25.2K orders, 2.2% return rate, with revenue trend, orders by category and top 10 products." width="100%"></a>
+
+> **Revenue more than tripled year over year, and returns held at 2.2%.** A four-page Power BI report built from 9 raw CSV tables, with a snowflake data model, DAX measures and bookmark navigation. A Maven Analytics course project (Udemy).
+>
+> **[View the one-page project summary →](https://garlid.github.io/Data-Projects-Portfolio/projects/adventure-works.html)** · **[Download the .pbix](Adventure_Works_Report_Final.pbix?raw=true)**
+
+---
+
 # Microsoft Power BI Desktop for Business Intelligence
 
 I completed Maven Analytics' course, **[Microsoft Power BI Desktop for Business Intelligence](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/?couponCode=KEEPLEARNING)**, in December 2024. This course enhanced my understanding of Power BI Desktop and provided valuable insights into various aspects of data analysis and visualization.
